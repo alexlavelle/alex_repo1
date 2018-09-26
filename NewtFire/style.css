@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: ariel, verdana;
+    width:auto;
+    font-size: 20px;
+    border: 2px solid blue;
+    border-radius: 8px;
+
+}
+img {
+    width:800px;
+    height:600px;
+    
+}
