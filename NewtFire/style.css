@@ -9,10 +9,12 @@ h1 {
 
 p {
     font-family: ariel, verdana;
-    width:auto;
     font-size: 20px;
     border: 2px solid blue;
     border-radius: 8px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 
 }
 img {
